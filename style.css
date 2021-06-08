@@ -298,6 +298,9 @@ body {
     display: block;
     margin-bottom: 20px;
   }
+  .container1{
+  	max-width: 800px;
+  }
 }
 
 /* Style the counter cards */
@@ -307,9 +310,12 @@ body {
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7);
 }
+
 /*desktop view styling*/
 		@media only screen and (min-width: 1080px){
-
+.container1{
+  	max-width: 800px;
+  }
 		}
 
 /*tablet view styling*/
@@ -334,6 +340,9 @@ body {
 	width: 100%;
 	font-size: 20px;
 }
+.container1{
+  	max-width: 600px;
+  }
 .content1{
 	/* position: relative; */
 	padding-top: 15%;
@@ -371,6 +380,7 @@ body {
 	width: 100%;
 	font-size: 15px;
 }
+
 .content3{
 	/* position: relative; */
 	padding-top: 15%;
