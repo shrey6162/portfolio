@@ -96,7 +96,7 @@ body {
 .head{
 	text-align: center;
 	color: black;
-	font-family: Impact, Gill Sans, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	padding:auto;
 	padding-bottom:15px;
@@ -147,7 +147,7 @@ footer {
 .head1{
 	text-align: center;
 	color: black;
-	font-family: Impact, Gill Sans, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	padding:auto;
 	padding-bottom:15px;
@@ -159,7 +159,7 @@ footer {
 .head2{
 	text-align: left;
 	color: black;
-	font-family: Impact, Gill Sans, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
 	padding:auto;
 	padding-bottom:15px;
